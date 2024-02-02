@@ -1,0 +1,32 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "tempvar&Sequence_44",
+        "tempDT&Sequence_43",
+        "dt2&Sequence_43",
+        "idx&Sequence_43",
+        "Null&Sequence_1",
+        "Null&Sequence_16",
+        "URLDT&Sequence_1",
+        "count&Sequence_1",
+        "counter&Sequence_1",
+        "finalDT&Sequence_1",
+        "inputDT&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
